@@ -1,0 +1,54 @@
+name: Refresh resources and publish
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+  schedule:
+    - cron: '17 0 * * *'
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: faculty-atlas-pages
+  cancel-in-progress: false
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Refresh teaching articles and source report
+        id: refresh
+        continue-on-error: true
+        run: python scripts/refresh.py
+      - name: Save refresh report
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add status.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'Refresh resource feed and source status'
+            git push
+          fi
+      - uses: actions/configure-pages@v5
+      - name: Prepare public files
+        run: |
+          mkdir -p _site
+          cp index.html status.json .nojekyll _site/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Report feed failure
+        if: steps.refresh.outcome == 'failure'
+        run: |
+          echo 'Feed refresh failed. Published retained content and dated failure report.'
+          exit 1
