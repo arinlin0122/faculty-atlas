@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26T04:41:17.887959+00:00",
+  "checkedAt": "2026-10-27T04:58:53.977384+00:00",
   "sources": [
     {
       "url": "https://www.teacherhorizons.com/jobs?countries=China",
@@ -64,6 +64,11 @@
   ],
   "articles": [
     {
+      "title": "Reintroducing Code Classroom – now with the Blocks editor",
+      "url": "https://www.raspberrypi.org/blog/reintroducing-code-classroom-now-with-the-blocks-editor/",
+      "date": "Mon, 26 Oct 2026 15:32:58 +0000"
+    },
+    {
       "title": "Preparing young people for frontier technologies: Our new partnership with the UK government",
       "url": "https://www.raspberrypi.org/blog/preparing-young-people-for-frontier-technologies-our-new-partnership-with-the-uk-government/",
       "date": "Wed, 21 Oct 2026 09:58:15 +0000"
@@ -87,13 +92,8 @@
       "title": "Not all explanations are equal: Social Explainable AI and Critical Computational Literacy",
       "url": "https://www.raspberrypi.org/blog/not-all-explanations-are-equal-social-explainable-ai-and-critical-computational-literacy/",
       "date": "Thu, 01 Oct 2026 13:48:29 +0000"
-    },
-    {
-      "title": "Encouraging learners to think first, prompt second: Using large language models to learn",
-      "url": "https://www.raspberrypi.org/blog/encouraging-learners-to-think-first-prompt-second-using-large-language-models-to-learn/",
-      "date": "Mon, 28 Sep 2026 09:46:30 +0000"
     }
   ],
   "feedError": null,
-  "feedUpdatedAt": "2026-10-26T04:41:18.862981+00:00"
+  "feedUpdatedAt": "2026-10-27T04:58:54.849654+00:00"
 }
