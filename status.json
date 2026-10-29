@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-28T05:35:12.853605+00:00",
+  "checkedAt": "2026-10-29T05:42:20.716113+00:00",
   "sources": [
     {
       "url": "https://www.teacherhorizons.com/jobs?countries=China",
@@ -64,6 +64,11 @@
   ],
   "articles": [
     {
+      "title": "That’s a wrap! Coolest Projects 2026",
+      "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
+      "date": "Wed, 28 Oct 2026 12:09:20 +0000"
+    },
+    {
       "title": "Reintroducing Code Classroom – now with the Blocks editor",
       "url": "https://www.raspberrypi.org/blog/reintroducing-code-classroom-now-with-the-blocks-editor/",
       "date": "Mon, 26 Oct 2026 15:32:58 +0000"
@@ -87,13 +92,8 @@
       "title": "How classroom challenges can change how students see computing",
       "url": "https://www.raspberrypi.org/blog/how-classroom-challenges-can-change-how-students-see-computing/",
       "date": "Tue, 06 Oct 2026 08:00:00 +0000"
-    },
-    {
-      "title": "Not all explanations are equal: Social Explainable AI and Critical Computational Literacy",
-      "url": "https://www.raspberrypi.org/blog/not-all-explanations-are-equal-social-explainable-ai-and-critical-computational-literacy/",
-      "date": "Thu, 01 Oct 2026 13:48:29 +0000"
     }
   ],
   "feedError": null,
-  "feedUpdatedAt": "2026-10-28T05:35:13.389758+00:00"
+  "feedUpdatedAt": "2026-10-29T05:42:21.526792+00:00"
 }
