@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04T06:10:55.981933+00:00",
+  "checkedAt": "2026-11-05T06:39:14.044524+00:00",
   "sources": [
     {
       "url": "https://www.teacherhorizons.com/jobs?countries=China",
@@ -64,6 +64,11 @@
   ],
   "articles": [
     {
+      "title": "Celebrating the UK’s National Engineering Day 2026",
+      "url": "https://www.raspberrypi.org/blog/celebrating-the-uks-national-engineering-day-2026/",
+      "date": "Wed, 04 Nov 2026 09:45:49 +0000"
+    },
+    {
       "title": "That’s a wrap! Coolest Projects 2026",
       "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
       "date": "Wed, 28 Oct 2026 12:09:20 +0000"
@@ -87,13 +92,8 @@
       "title": "From musical fruit to walking robots: Coolest Projects India returns to Hyderabad",
       "url": "https://www.raspberrypi.org/blog/from-musical-fruit-to-walking-robots-coolest-projects-india-returns-to-hyderabad/",
       "date": "Thu, 15 Oct 2026 14:47:31 +0000"
-    },
-    {
-      "title": "How classroom challenges can change how students see computing",
-      "url": "https://www.raspberrypi.org/blog/how-classroom-challenges-can-change-how-students-see-computing/",
-      "date": "Tue, 06 Oct 2026 08:00:00 +0000"
     }
   ],
   "feedError": null,
-  "feedUpdatedAt": "2026-11-04T06:10:56.710728+00:00"
+  "feedUpdatedAt": "2026-11-05T06:39:14.997010+00:00"
 }
