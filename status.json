@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-05T06:39:14.044524+00:00",
+  "checkedAt": "2026-11-06T06:35:29.204379+00:00",
   "sources": [
     {
       "url": "https://www.teacherhorizons.com/jobs?countries=China",
@@ -64,6 +64,11 @@
   ],
   "articles": [
     {
+      "title": "Experience AI begins reaching classrooms across Latin America",
+      "url": "https://www.raspberrypi.org/blog/experience-ai-begins-reaching-classrooms-across-latin-america/",
+      "date": "Thu, 05 Nov 2026 09:24:31 +0000"
+    },
+    {
       "title": "Celebrating the UK’s National Engineering Day 2026",
       "url": "https://www.raspberrypi.org/blog/celebrating-the-uks-national-engineering-day-2026/",
       "date": "Wed, 04 Nov 2026 09:45:49 +0000"
@@ -87,13 +92,8 @@
       "title": "The next Chair of the Board of Trustees, Blythe Masters",
       "url": "https://www.raspberrypi.org/blog/the-next-chair-of-the-board-of-trustees-blythe-masters/",
       "date": "Tue, 20 Oct 2026 12:45:00 +0000"
-    },
-    {
-      "title": "From musical fruit to walking robots: Coolest Projects India returns to Hyderabad",
-      "url": "https://www.raspberrypi.org/blog/from-musical-fruit-to-walking-robots-coolest-projects-india-returns-to-hyderabad/",
-      "date": "Thu, 15 Oct 2026 14:47:31 +0000"
     }
   ],
   "feedError": null,
-  "feedUpdatedAt": "2026-11-05T06:39:14.997010+00:00"
+  "feedUpdatedAt": "2026-11-06T06:35:29.844029+00:00"
 }
