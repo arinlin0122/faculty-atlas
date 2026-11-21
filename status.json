@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-20T07:07:17.304690+00:00",
+  "checkedAt": "2026-11-21T06:59:24.111194+00:00",
   "sources": [
     {
       "url": "https://www.teacherhorizons.com/jobs?countries=China",
@@ -64,6 +64,11 @@
   ],
   "articles": [
     {
+      "title": "Bringing AI education to 300,000 young people across Canada",
+      "url": "https://www.raspberrypi.org/blog/bringing-ai-education-to-300000-young-people-across-canada/",
+      "date": "Fri, 20 Nov 2026 14:00:00 +0000"
+    },
+    {
       "title": "Hello World #31 out now: Physical computing and robotics",
       "url": "https://www.raspberrypi.org/blog/hello-world-31-out-now-physical-computing-and-robotics/",
       "date": "Wed, 18 Nov 2026 15:24:35 +0000"
@@ -87,13 +92,8 @@
       "title": "Reintroducing Code Classroom – now with the Blocks editor",
       "url": "https://www.raspberrypi.org/blog/reintroducing-code-classroom-now-with-the-blocks-editor/",
       "date": "Mon, 26 Oct 2026 15:32:58 +0000"
-    },
-    {
-      "title": "Preparing young people for frontier technologies: Our new partnership with the UK government",
-      "url": "https://www.raspberrypi.org/blog/preparing-young-people-for-frontier-technologies-our-new-partnership-with-the-uk-government/",
-      "date": "Wed, 21 Oct 2026 09:58:15 +0000"
     }
   ],
   "feedError": null,
-  "feedUpdatedAt": "2026-11-20T07:07:18.210253+00:00"
+  "feedUpdatedAt": "2026-11-21T06:59:24.832306+00:00"
 }
