@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-24T09:49:02.430923+00:00",
+  "checkedAt": "2026-11-25T08:24:44.249284+00:00",
   "sources": [
     {
       "url": "https://www.teacherhorizons.com/jobs?countries=China",
@@ -64,6 +64,11 @@
   ],
   "articles": [
     {
+      "title": "Who is WEIRD? Thoughts on teaching with generative AI tools",
+      "url": "https://www.raspberrypi.org/blog/who-is-weird-thoughts-on-teaching-with-generative-ai-tools/",
+      "date": "Tue, 24 Nov 2026 11:36:22 +0000"
+    },
+    {
       "title": "Bringing AI education to 300,000 young people across Canada",
       "url": "https://www.raspberrypi.org/blog/bringing-ai-education-to-300000-young-people-across-canada/",
       "date": "Fri, 20 Nov 2026 14:00:00 +0000"
@@ -87,13 +92,8 @@
       "title": "That’s a wrap! Coolest Projects 2026",
       "url": "https://www.raspberrypi.org/blog/thats-a-wrap-coolest-projects-2026/",
       "date": "Wed, 28 Oct 2026 12:09:20 +0000"
-    },
-    {
-      "title": "Reintroducing Code Classroom – now with the Blocks editor",
-      "url": "https://www.raspberrypi.org/blog/reintroducing-code-classroom-now-with-the-blocks-editor/",
-      "date": "Mon, 26 Oct 2026 15:32:58 +0000"
     }
   ],
   "feedError": null,
-  "feedUpdatedAt": "2026-11-24T09:49:03.046280+00:00"
+  "feedUpdatedAt": "2026-11-25T08:24:44.924044+00:00"
 }
